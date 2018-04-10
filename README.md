@@ -1,5 +1,5 @@
 # img-swiper-vue
-vue图片轮播组件：
+vue图片轮播组件：<br>
 <img-swiper-vue />
 必填参数：
 imgList(Array):图片src数组。
