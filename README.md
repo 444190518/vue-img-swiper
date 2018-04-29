@@ -1,6 +1,8 @@
 # vue-img-swiper
 
-## vue图片轮播组件：
+> vue图片轮播组件
+
+## Build Setup
 
 ``` bash
 <img-swiper-vue />
