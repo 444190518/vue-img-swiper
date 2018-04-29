@@ -1,4 +1,4 @@
-# img-swiper-vue
+# vue-img-swiper
 vue图片轮播组件：<br>
 &lt;img-swiper-vue /&gt;<br>
 必填参数：<br>
