@@ -19,4 +19,4 @@ import imgSwiper from 'vue-img-swpier'
 
 ## 预览
 
-<a href="https://zhazhjie.github.io/vue-components-demo/">Demo</a>
+<a href="https://zhazhjie.github.io/vue-components-demo/?id=swiper">Demo</a>
