@@ -5,11 +5,15 @@
 ## Build Setup
 
 ``` bash
-<img-swiper-vue />
-必填参数：
-imgList(Array):图片src数组:['1.jpg','2.jpg']。
-可选参数：
-delay(Number):图片切换时间:3000。
-width(String):图片宽度:320px。
-height(String):图片高度:320px。
+<img-swiper-vue :imgList='imgList' :delay='3000' width='500px' height='300px'/>
+# 必填参数：
+# imgList(Array):图片src数组。
+# 可选参数：
+# delay(Number):图片切换时间。
+# width(String):图片宽度。
+# height(String):图片高度。
 ```
+
+## 预览
+
+<a href="https://zhazhjie.github.io/vue-components-demo/">Demo</a>
