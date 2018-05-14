@@ -5,7 +5,10 @@
 ## Build Setup
 
 ``` bash
-<img-swiper-vue :imgList='imgList' :delay='3000' width='500px' height='300px'/>
+import imgSwiper from 'vue-img-swpier'
+
+<img-swiper :imgList='imgList' :delay='3000' width='500px' height='300px'/>
+
 # 必填参数：
 # imgList(Array):图片src数组。
 # 可选参数：
