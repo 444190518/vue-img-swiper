@@ -64,6 +64,7 @@ export default {
     selectImg(i) {
       if(!this.next)
         return;
+      this.backward = false;
       this.imgIndex = i
     },
     imgCarousel() {
@@ -127,13 +128,13 @@ export default {
 
 .move-right-leave-to,
 .move-left-enter,
-.move-fast-enter {
+.move-fast-leave-to {
   transform: translateX(-100%);
 }
 
 .move-right-enter,
 .move-left-leave-to,
-.move-fast-leave-to {
+.move-fast-enter {
   transform: translateX(100%);
 }
 
